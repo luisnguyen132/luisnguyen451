@@ -1,7 +1,8 @@
-#sign-henry
 
-Thư viện giúp bạn tính hiệu của hai số bất kỳ
 
-Phép tính đơn giản, dễ sử dụng, cực kỳ nhẹ!
+Tính hiệu bất kỳ
 
-Cám ơn bạn đã dùng thử!
+Tính toán đơn giản, dễ dùng!
+
+Cám ơn bạn đã trải nghiệm!
+LUIS NGUYEN - SIGN!
